@@ -39,6 +39,7 @@ p.name{
 	font-family: 'Courier New', Courier, monospace;
 	word-spacing: 30px;
 	background-color: transparent;
+	position:fixed;
 	
 }
 li{
