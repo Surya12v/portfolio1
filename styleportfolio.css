@@ -32,7 +32,8 @@ p.name{
 	
 }
 .nav ul{
-	
+	margin-top: 0%;
+	color
 	padding:29px;
 	text-decoration: none;
 	border-radius: 2%;
@@ -49,7 +50,7 @@ li{
 	font-size: larger;
 	font-weight: bolder;
 	text-decoration: none;
-	color: rgb(255, 255, 255);
+	color: black;
 	display: inline-block;
 	padding: 5px;
 	cursor: pointer;
